@@ -1,5 +1,7 @@
 # vue-native-setup-guide
 
+Some crucial info, that is not told here: https://vue-native.io/docs/installation.html#Setup-with-Vue-Native-CLI
+
 ## Step JDK
 - Download and install Oracle JDK 8 (e.g. `choco install -y jdk8`)
 - Set env variable `JAVA_HOME` to install directory
