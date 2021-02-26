@@ -1,4 +1,4 @@
-# vue-native-setup-guide
+# vue native setup guide for windows
 
 Some crucial info, that is not told here: https://vue-native.io/docs/installation.html#Setup-with-Vue-Native-CLI
 This is the documentation for the latest version vue-native 0.2.0 (2021-02-26)
