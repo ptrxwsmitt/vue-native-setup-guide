@@ -25,7 +25,7 @@ This is the documentation for the latest version vue-native 0.2.0 (2021-02-26)
 Generating an app using `vue-native init VN1Test --no-expo` will result in an application not runnable on NodeJs 12 LTS due to version conflicts.
 Update Versions as follows:
 
-`
+```
 {
   "name": "VN1Test",
   "version": "0.0.1",
@@ -53,4 +53,4 @@ Update Versions as follows:
     "preset": "react-native"
   }
 }
-`
+```
