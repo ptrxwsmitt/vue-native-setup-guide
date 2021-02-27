@@ -15,7 +15,7 @@ This is the documentation for the latest version vue-native 0.2.0 (2021-02-26)
 - Add to Path:  `%ANDROID_SDK_ROOT%\platform-tools`
 
 ## Step Node
-- Download and install NodeJs 10
+- Download and install NodeJs 12 LTS
 - Set env variable `NODE_HOME` to install directory
 - Add to Path:  `%NODE_HOME%`
 - run `npm install react-native-cli -g`
